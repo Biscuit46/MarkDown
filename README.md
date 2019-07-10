@@ -16,7 +16,7 @@
 
 ## English
 
-This is the place to save some docs,for it's too difficult to write down articles by $hexo$ or $Vnote$ between home and school,and maybe the speed of $Typecho$ is slow.So I'll do this by github and Typora.
+This is the place to save some docs,for it's too difficult to write down articles by hexo or Vnote between home and school,and maybe the speed of Typecho is slow.So I'll do this by github and Typora.
 
 Links of others
 
